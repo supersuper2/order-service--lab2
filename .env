@@ -1,0 +1,5 @@
+# RabbitMQ connection string
+RABBITMQ_CONNECTION_STRING=amqp://guest:guest@localhost:5672/
+
+# Port for the order-service to listen on
+PORT=3000
